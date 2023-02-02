@@ -1,4 +1,4 @@
-## SELECT and FROM
+## LIMIT
 
 ### Description
 
